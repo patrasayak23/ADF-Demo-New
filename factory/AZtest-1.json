@@ -1,0 +1,9 @@
+{
+	"name": "AZtest-1",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ac59bb6d-5e81-4b84-8c00-5af8f09c0abb",
+		"tenantId": "c8b1fd3b-e7cd-4cd0-9cd1-42be0a989c55"
+	}
+}
